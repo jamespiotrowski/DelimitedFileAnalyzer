@@ -1,0 +1,5 @@
+Line 4: Alison,Calabio,"Fighting,4.0
+Line 11: Ada,Shelby,
+Line 12: Swimming,3.6,28
+Line 13: ,285,true,UNLV,30.223
+Line 14: ,1/28/1996

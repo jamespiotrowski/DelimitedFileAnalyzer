@@ -1,0 +1,12 @@
+CREATE TABLE MyTable (
+	[Firstname] [VARCHAR](7) NOT NULL
+	,[Lastname] [VARCHAR](10) NOT NULL
+	,[Interests] [VARCHAR](76) NULL
+	,[Gpa] [DECIMAL](3,1) NULL
+	,[Age] [TINYINT] NULL
+	,[Weight] [SMALLINT] NULL
+	,[Male] [BIT] NOT NULL
+	,[Source] [CHAR](4) NOT NULL
+	,[Perc] [DECIMAL](9,6) NULL
+	,[Datesignedup] [DATE] NULL
+);

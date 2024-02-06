@@ -1,0 +1,11 @@
+
+INSERT INTO MyTable VALUES
+	('James','Piotrowski','Swimming',3.6,28,285,1,'UNLV',30.223,'1/28/1996')
+	,('Brenton','Gilchrist','Lifting, Video Games, Eating',3.4,29,205,1,'UNLV',77.223667,'7/22/1988')
+	,('Linnae','Sayers',NULL,NULL,NULL,NULL,0,'CSUF',NULL,NULL)
+	,('Robert','Sidinger',NULL,3.8,30,225,1,'UNLV',69.223,'1/28/1956')
+	,('Katy','Zofcin','I put endlines in my user entry
+	fields to mess with
+computer, programmers',NULL,63,155,0,'UTKV',0.0045,'1/28/2007')
+	,('Peter','Piatro','Swimming',3.6,28,285,1,'UNLV',30.223,'1/28/1996')
+;

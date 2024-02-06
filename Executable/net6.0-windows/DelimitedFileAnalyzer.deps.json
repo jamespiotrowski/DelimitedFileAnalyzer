@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DelimitedFileAnalyzer/1.0.0": {
+        "runtime": {
+          "DelimitedFileAnalyzer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DelimitedFileAnalyzer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

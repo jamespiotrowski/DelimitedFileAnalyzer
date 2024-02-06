@@ -1,0 +1,14 @@
+FirstName,LastName,Interests,GPA,Age,Weight,Male,Source,Perc,DateSignedUp
+James,Piotrowski,Swimming,3.6,28,285,true,UNLV,30.223,1/28/1996
+Brenton,Gilchrist,"Lifting, Video Games, Eating",3.4,29,205,true,UNLV,77.223667,7/22/1988
+Alison,Calabio,"Fighting,4.0
+Linnae,Sayers,NULL,NULL,NULL,NULL,false,CSUF,NULL,NULL
+Robert,Sidinger,,3.8,30,225,true,UNLV,69.223,1/28/1956
+Katy,Zofcin,"I put endlines in my user entry
+	fields to mess with
+computer, programmers",NULL,63,155,false,UTKV,0.0045,1/28/2007
+Peter,Piatro,Swimming,3.6,28,285,true,UNLV,30.223,1/28/1996
+Ada,Shelby,
+Swimming,3.6,28
+,285,true,UNLV,30.223
+,1/28/1996
